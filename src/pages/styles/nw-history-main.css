@@ -1,0 +1,11 @@
+.nw-history-main{
+    background-color: aqua;
+    text-align: center;
+}
+
+.data-box{
+    border: 1px solid rgb(219, 102, 102);
+    background-color: rgb(169, 255, 255);
+    margin: 20px auto;
+    width: 450px;
+}

@@ -1,0 +1,35 @@
+/* styles/navbar.css */
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+}
+
+.left {
+    display: flex;
+    gap: 20px;
+}
+
+.left a{
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+.left a:hover {
+    color: #ddd;
+}
+
+.right {
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
